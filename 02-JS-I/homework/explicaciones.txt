@@ -1,0 +1,18 @@
+* Variables:
+    Una variable es la forma en que llamaremos a un dato que puede cambiar constantemente de valor , es como
+    un frasco que rotulamos y podemos llenar con diferentes cosas.
+* Strings:
+    Una string es cualquier sucecion de palabras que representen texto dentro de un programa y deben ser escritas
+    entre comillas para que la maquina lo interprete y pueda procesarlo correctamente.
+
+* Funciones:
+    Una funcion es como un "instrumento" ya sea mecanico, electrico etc ... que esta construido para cumplir un objetivo,
+    por ejemplo una tostadora, tu introduces el pan, este devuelve una tostada... en javascript, estos "instrumentos" 
+    son bloques de codigo que tienen nombre y que realizan una funcion determinada cuando se los invoca, ademas pueden o no
+    recibir algo en su entrada a lo cual llamamos "argumentos" . 
+
+* Declaraciones `if`
+    El bloque if se usa para verificar el valor de alguna expresion, generando dos o mas posibilidades en funcion de esta.
+
+* Valores booleanos (`true`, `false`):
+    Es como un interruptor de luz comun que solo tiene dos posibles estados: encendido o apagado. 
