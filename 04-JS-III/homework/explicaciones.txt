@@ -1,0 +1,4 @@
+* Arrays:
+
+Un array se puede entender como un "espacio" de almacenamiento o de memoria, son como casillas ordenadas con una 
+respectiva direccion (indice) que nos permite acceder a ellos y efectuar operaciones a travez de "Metodos". 

@@ -1,0 +1,17 @@
+* `for`
+    el bucle for se usa cuando necesitamos realizar una accion n cantidad de veces y queremos controlar 
+    las condiciones de inicio y de final para obtener los resultados requeridos.
+
+
+* `&&`
+    el operados "and" sirve para controlar el flujo de nuestro programa se usa , por ejemplo, 
+    cuando necesitamos corroborar que dos tareas estan hechas
+    para poder realizar una tercera: "tengo iternet" && "el cargador de la PC" entonces "Pueedo hacer la tarea"
+
+ `||`
+
+ Nos sirve para condicionar alguna tarea y obtener un resultado de ello: "estoy en Tokio" || "Estoy en Negoya"
+ 
+ , `!`
+
+ Sirve para negar el valor de una entrada es decir retornara siempre el valor contrario de la variable que acompa
